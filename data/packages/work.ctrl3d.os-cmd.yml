@@ -1,0 +1,19 @@
+name: work.ctrl3d.os-cmd
+displayName: OSCmd
+description: >-
+  A Unity package for cross-platform shell command execution and basic system
+  control utilities.
+repoUrl: https://github.com/ctrl3d/OSCmd
+parentRepoUrl: null
+licenseSpdxId: Unlicense
+licenseName: The Unlicense
+image: ''
+topics:
+  - parallelism-and-concurrency
+  - utilities
+hunter: ctrl3d
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: main:docs/index.md
+createdAt: 1746606734246
